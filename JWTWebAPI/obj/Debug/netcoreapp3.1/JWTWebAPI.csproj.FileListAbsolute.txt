@@ -1,0 +1,58 @@
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.exe
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.deps.json
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.runtimeconfig.json
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.runtimeconfig.dev.json
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.pdb
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.csproj.AssemblyReference.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.AssemblyInfoInputs.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.AssemblyInfo.cs
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\JWTWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.pdb
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.genruntimeconfig.cache
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tmfolarin\source\repos\JWTWebAPI\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.csproj.CopyComplete
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.exe
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.deps.json
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.runtimeconfig.json
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.runtimeconfig.dev.json
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\JWTWebAPI.pdb
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.csproj.AssemblyReference.cache
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.AssemblyInfoInputs.cache
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.AssemblyInfo.cs
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\JWTWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.csproj.CopyComplete
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.dll
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.pdb
+C:\Users\tmfolarin\Desktop\c# project\JwtAuthAspNetCoreWebApi\JWTWebAPI\obj\Debug\netcoreapp3.1\JWTWebAPI.genruntimeconfig.cache
